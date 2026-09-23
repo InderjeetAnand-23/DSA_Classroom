@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/InderjeetAnand-23/DSA_Classroom/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/InderjeetAnand-23/DSA_Classroom/tree/master/0046-permutations) |
 | [0052-n-queens-ii](https://github.com/InderjeetAnand-23/DSA_Classroom/tree/master/0052-n-queens-ii) |
 ## Algorithm X
 |  |
@@ -16,6 +17,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/InderjeetAnand-23/DSA_Classroom/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/InderjeetAnand-23/DSA_Classroom/tree/master/0046-permutations) |
 ## Hash Table
 |  |
 | ------- |
