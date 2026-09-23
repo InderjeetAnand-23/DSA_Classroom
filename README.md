@@ -7,6 +7,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/InderjeetAnand-23/DSA_Classroom/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/InderjeetAnand-23/DSA_Classroom/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/InderjeetAnand-23/DSA_Classroom/tree/master/0047-permutations-ii) |
 | [0052-n-queens-ii](https://github.com/InderjeetAnand-23/DSA_Classroom/tree/master/0052-n-queens-ii) |
 ## Algorithm X
 |  |
@@ -18,6 +19,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/InderjeetAnand-23/DSA_Classroom/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/InderjeetAnand-23/DSA_Classroom/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/InderjeetAnand-23/DSA_Classroom/tree/master/0047-permutations-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,4 +41,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/InderjeetAnand-23/DSA_Classroom/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sorting
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/InderjeetAnand-23/DSA_Classroom/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
