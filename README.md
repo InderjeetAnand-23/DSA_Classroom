@@ -28,6 +28,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/InderjeetAnand-23/DSA_Classroom/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/InderjeetAnand-23/DSA_Classroom/tree/master/0037-sudoku-solver) |
+| [0141-linked-list-cycle](https://github.com/InderjeetAnand-23/DSA_Classroom/tree/master/0141-linked-list-cycle) |
 ## Matrix
 |  |
 | ------- |
@@ -48,4 +49,16 @@
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/InderjeetAnand-23/DSA_Classroom/tree/master/0047-permutations-ii) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/InderjeetAnand-23/DSA_Classroom/tree/master/0141-linked-list-cycle) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/InderjeetAnand-23/DSA_Classroom/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/InderjeetAnand-23/DSA_Classroom/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
