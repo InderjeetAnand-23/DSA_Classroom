@@ -53,6 +53,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/InderjeetAnand-23/DSA_Classroom/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/InderjeetAnand-23/DSA_Classroom/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/InderjeetAnand-23/DSA_Classroom/tree/master/0142-linked-list-cycle-ii) |
 | [0328-odd-even-linked-list](https://github.com/InderjeetAnand-23/DSA_Classroom/tree/master/0328-odd-even-linked-list) |
@@ -86,4 +87,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/InderjeetAnand-23/DSA_Classroom/tree/master/0207-course-schedule) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/InderjeetAnand-23/DSA_Classroom/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
