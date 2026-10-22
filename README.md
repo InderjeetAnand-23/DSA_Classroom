@@ -84,6 +84,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/InderjeetAnand-23/DSA_Classroom/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/InderjeetAnand-23/DSA_Classroom/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/InderjeetAnand-23/DSA_Classroom/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/InderjeetAnand-23/DSA_Classroom/tree/master/0207-course-schedule) |
@@ -149,6 +150,7 @@
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/InderjeetAnand-23/DSA_Classroom/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/InderjeetAnand-23/DSA_Classroom/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/InderjeetAnand-23/DSA_Classroom/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/InderjeetAnand-23/DSA_Classroom/tree/master/0107-binary-tree-level-order-traversal-ii) |
@@ -158,6 +160,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/InderjeetAnand-23/DSA_Classroom/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/InderjeetAnand-23/DSA_Classroom/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/InderjeetAnand-23/DSA_Classroom/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/InderjeetAnand-23/DSA_Classroom/tree/master/0107-binary-tree-level-order-traversal-ii) |
@@ -172,4 +175,8 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/InderjeetAnand-23/DSA_Classroom/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/InderjeetAnand-23/DSA_Classroom/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
